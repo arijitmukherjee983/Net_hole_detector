@@ -5,3 +5,4 @@ supervision
 opencv-python
 pillow
 numpy
+inference==0.5.1
