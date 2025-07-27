@@ -1,5 +1,5 @@
 streamlit
-inference
+roboflow==0.2.30
 supervision
 opencv-python
 pillow
