@@ -1,8 +1,6 @@
 streamlit
-opencv-python-headless
-roboflow==0.2.30
 supervision
 opencv-python
 pillow
 numpy
-inference==0.5.1
+roboflow==0.2.30
