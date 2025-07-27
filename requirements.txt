@@ -1,0 +1,6 @@
+streamlit
+inference
+supervision
+opencv-python
+pillow
+numpy
