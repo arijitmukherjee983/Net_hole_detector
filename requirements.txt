@@ -1,6 +1,6 @@
 streamlit
 supervision
+opencv-python
 pillow
 numpy
 roboflow==0.2.30
-opencv-python-headless==4.8.0.76
