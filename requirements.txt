@@ -4,3 +4,4 @@ opencv-python
 pillow
 numpy
 roboflow==0.2.30
+opencv-python-headless
